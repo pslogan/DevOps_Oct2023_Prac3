@@ -12,4 +12,4 @@ jobs:
     - name: Print and list out content
       run: |
         ls
-        echo Hello There!
+        echo Hello There !
